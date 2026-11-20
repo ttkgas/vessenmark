@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ttkgas.github.io/vessenmark/sitemap.xml
